@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace Counter.Models
 {
-    internal class CounterModel
+    public class CounterModel
     {
         public string CounterName { get; set; }
+        public int CounterValue { get; set; }
 
         public string EditorPlaceholderText => "Wpisz nazwe licznika";
     }

@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MikolajSzykowiec4F\\Counter\\",
+  "WorkspaceRootPath": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|d:\\mikolajszykowiec4f\\counter\\counter\\counterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|solutionrelative:counter\\counterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|d:\\mikolajszykowiec4f\\counter\\counter\\models\\countermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|solutionrelative:counter\\models\\countermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|d:\\mikolajszykowiec4f\\counter\\counter\\counterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|c:\\users\\piese\\documents\\github\\counter maui\\counter\\counter\\counterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|solutionrelative:counter\\counterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|d:\\mikolajszykowiec4f\\counter\\counter\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|solutionrelative:counter\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|c:\\users\\piese\\documents\\github\\counter maui\\counter\\counter\\counterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|solutionrelative:counter\\counterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|d:\\mikolajszykowiec4f\\counter\\counter\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|solutionrelative:counter\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|c:\\users\\piese\\documents\\github\\counter maui\\counter\\counter\\models\\countermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|solutionrelative:counter\\models\\countermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|d:\\mikolajszykowiec4f\\counter\\counter\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|solutionrelative:counter\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|d:\\mikolajszykowiec4f\\counter\\counter\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|c:\\users\\piese\\documents\\github\\counter maui\\counter\\counter\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|solutionrelative:counter\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|d:\\mikolajszykowiec4f\\counter\\counter\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|c:\\users\\piese\\documents\\github\\counter maui\\counter\\counter\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|solutionrelative:counter\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|c:\\users\\piese\\documents\\github\\counter maui\\counter\\counter\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|solutionrelative:counter\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|c:\\users\\piese\\documents\\github\\counter maui\\counter\\counter\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|solutionrelative:counter\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|c:\\users\\piese\\documents\\github\\counter maui\\counter\\counter\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{432494EB-141B-4264-82FF-068F89D1303A}|Counter\\Counter.csproj|solutionrelative:counter\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -41,143 +41,42 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "DockedWidth": 388,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:85371364:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CounterPage.xaml.cs",
-              "DocumentMoniker": "D:\\MikolajSzykowiec4F\\Counter\\Counter\\CounterPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\Counter\\CounterPage.xaml.cs",
               "RelativeDocumentMoniker": "Counter\\CounterPage.xaml.cs",
-              "ToolTip": "D:\\MikolajSzykowiec4F\\Counter\\Counter\\CounterPage.xaml.cs",
+              "ToolTip": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\Counter\\CounterPage.xaml.cs",
               "RelativeToolTip": "Counter\\CounterPage.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA9wCAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T06:45:40.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CounterPage.xaml",
-              "DocumentMoniker": "D:\\MikolajSzykowiec4F\\Counter\\Counter\\CounterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\Counter\\CounterPage.xaml",
               "RelativeDocumentMoniker": "Counter\\CounterPage.xaml",
-              "ToolTip": "D:\\MikolajSzykowiec4F\\Counter\\Counter\\CounterPage.xaml",
+              "ToolTip": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\Counter\\CounterPage.xaml",
               "RelativeToolTip": "Counter\\CounterPage.xaml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowCIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-10-07T06:45:33.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CounterModel.cs",
-              "DocumentMoniker": "D:\\MikolajSzykowiec4F\\Counter\\Counter\\Models\\CounterModel.cs",
-              "RelativeDocumentMoniker": "Counter\\Models\\CounterModel.cs",
-              "ToolTip": "D:\\MikolajSzykowiec4F\\Counter\\Counter\\Models\\CounterModel.cs",
-              "RelativeToolTip": "Counter\\Models\\CounterModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T06:08:46.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "D:\\MikolajSzykowiec4F\\Counter\\Counter\\AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\Counter\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "Counter\\AppShell.xaml.cs",
-              "ToolTip": "D:\\MikolajSzykowiec4F\\Counter\\Counter\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\Counter\\AppShell.xaml.cs",
               "RelativeToolTip": "Counter\\AppShell.xaml.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -186,66 +85,86 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "D:\\MikolajSzykowiec4F\\Counter\\Counter\\AppShell.xaml",
-              "RelativeDocumentMoniker": "Counter\\AppShell.xaml",
-              "ToolTip": "D:\\MikolajSzykowiec4F\\Counter\\Counter\\AppShell.xaml",
-              "RelativeToolTip": "Counter\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-30T06:06:52.362Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "App.xaml",
-              "DocumentMoniker": "D:\\MikolajSzykowiec4F\\Counter\\Counter\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\Counter\\App.xaml",
               "RelativeDocumentMoniker": "Counter\\App.xaml",
-              "ToolTip": "D:\\MikolajSzykowiec4F\\Counter\\Counter\\App.xaml",
+              "ToolTip": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\Counter\\App.xaml",
               "RelativeToolTip": "Counter\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-09-30T05:58:23.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "CounterModel.cs",
+              "DocumentMoniker": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\Counter\\Models\\CounterModel.cs",
+              "RelativeDocumentMoniker": "Counter\\Models\\CounterModel.cs",
+              "ToolTip": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\Counter\\Models\\CounterModel.cs",
+              "RelativeToolTip": "Counter\\Models\\CounterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T06:08:46.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\Counter\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Counter\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\Counter\\AppShell.xaml",
+              "RelativeToolTip": "Counter\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-30T06:06:52.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\MikolajSzykowiec4F\\Counter\\Counter\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\Counter\\App.xaml.cs",
               "RelativeDocumentMoniker": "Counter\\App.xaml.cs",
-              "ToolTip": "D:\\MikolajSzykowiec4F\\Counter\\Counter\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\Counter\\App.xaml.cs",
               "RelativeToolTip": "Counter\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T05:58:17.717Z"
+              "WhenOpened": "2026-09-30T05:58:17.717Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "MauiProgram.cs",
-              "DocumentMoniker": "D:\\MikolajSzykowiec4F\\Counter\\Counter\\MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\Counter\\MauiProgram.cs",
               "RelativeDocumentMoniker": "Counter\\MauiProgram.cs",
-              "ToolTip": "D:\\MikolajSzykowiec4F\\Counter\\Counter\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\Counter\\MauiProgram.cs",
               "RelativeToolTip": "Counter\\MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T05:57:59.634Z"
+              "WhenOpened": "2026-09-30T05:57:59.634Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 161,
+          "DockedWidth": 171,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }

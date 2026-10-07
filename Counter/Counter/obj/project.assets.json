@@ -30464,24 +30464,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\STUDENT\\.nuget\\packages\\": {},
+    "C:\\Users\\piese\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MikolajSzykowiec4F\\Counter\\Counter\\Counter.csproj",
+      "projectUniqueName": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\Counter\\Counter.csproj",
       "projectName": "Counter",
-      "projectPath": "D:\\MikolajSzykowiec4F\\Counter\\Counter\\Counter.csproj",
-      "packagesPath": "C:\\Users\\STUDENT\\.nuget\\packages\\",
-      "outputPath": "D:\\MikolajSzykowiec4F\\Counter\\Counter\\obj\\",
+      "projectPath": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\Counter\\Counter.csproj",
+      "packagesPath": "C:\\Users\\piese\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\piese\\Documents\\GitHub\\Counter MAUI\\Counter\\Counter\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\STUDENT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\piese\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -30782,13 +30782,5 @@
         "#import": []
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Podczas pobierania danych o lukach w zabezpieczeniach pakietu wystąpił błąd: Nie można załadować indeksu usługi dla źródła https://api.nuget.org/v3/index.json."
-    }
-  ]
+  }
 }

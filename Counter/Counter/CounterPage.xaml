@@ -4,31 +4,14 @@
              x:Class="Counter.CounterPage"
              Title="CounterPage">
     <VerticalStackLayout Spacing="10">
-        <Label 
-            Text="0"
-            x:Name="CounterLabel"
-            FontSize="50"
-            VerticalOptions="Center"
-            HorizontalOptions="Center"
-            Margin="10"/>
-        <Button
-            Text="+"
-            MaximumWidthRequest="50"
-            VerticalOptions="Center"
-            HorizontalOptions="Center"
-            Clicked="CounterButtonPlusClicked"/>
-        <Button
-            Text="-"
-            MaximumWidthRequest="50"
-            VerticalOptions="Center"
-            HorizontalOptions="Center"
-            Clicked="CounterButtonMinusClicked"/>
         <Button
             Text="Dodaj nowy"
-            Clicked="NewCounterButtonClicked"/>
+            Clicked="NewCounterButtonClicked"
+            MaximumWidthRequest="150"/>
         <Editor
             x:Name="CounterNameInput"
-            Placeholder="{Binding EditorPlaceholderText}"/>
+            Placeholder="{Binding EditorPlaceholderText}"
+            MaximumWidthRequest="150"/>
         <CollectionView x:Name="CounterCollection"
                     ItemsSource="{Binding Counters}"
                     Margin="20"
@@ -41,7 +24,22 @@
                 <DataTemplate>
                     <StackLayout>
                         <Label 
-                            Text="{Binding CounterName}"/>
+                            Text="{Binding CounterName}"
+                            HorizontalOptions="Start"/>
+                        <Label
+                            Text="{Binding CounterValue}"
+                            HorizontalOptions="Start"
+                            x:Name="CounterValueLabel"/>
+                        <Button
+                            Text="+"
+                            Clicked="IncreaseCounterButtonClicked"
+                            MaximumWidthRequest="120"
+                            HorizontalOptions="Start"/>
+                        <Button
+                            Text="-"
+                            Clicked="DecreaseCounterButtonClicked"
+                            MaximumWidthRequest="120"
+                            HorizontalOptions="Start"/>
                     </StackLayout>
                 </DataTemplate>
             </CollectionView.ItemTemplate>
