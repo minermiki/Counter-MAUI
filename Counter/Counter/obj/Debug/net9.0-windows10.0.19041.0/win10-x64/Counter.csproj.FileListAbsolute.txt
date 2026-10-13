@@ -1048,3 +1048,4 @@ C:\Users\piese\Documents\GitHub\Counter MAUI\Counter\Counter\obj\Debug\net9.0-wi
 C:\Users\piese\Documents\GitHub\Counter MAUI\Counter\Counter\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\Users\piese\Documents\GitHub\Counter MAUI\Counter\Counter\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\piese\Documents\GitHub\Counter MAUI\Counter\Counter\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\piese\Documents\GitHub\Counter MAUI\Counter\Counter\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Counter.sourcelink.json
